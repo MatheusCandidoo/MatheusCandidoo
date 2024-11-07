@@ -1,9 +1,7 @@
 ### Hello, I'm Matheus Candido
 🎓 - I'm gratuating in Software Engineering at UTFPR-CP and an intern at TCS Brazil.
 
-🚀 - My favorite topics about developing are Back-end, AI, Games and Cyber Security. Aside these topics I'm trying to improve my knowledge about development process (agile and others), front-end, documentation and outher topics.
-
-📗 - Currently I'm reading Do mil ao milhão: sem cortar ao cafezinho (Thiago Nigro) and going back to the foundations about web development
+🚀 - My favorite topics about developing are Back-end, AI, Games and Cyber Security. Aside these topics I'm trying to improve my knowledge about development process (agile and others), front-end, documentation and outher topics
 
 ##
 
