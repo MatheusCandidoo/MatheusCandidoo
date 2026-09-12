@@ -1,16 +1,17 @@
 ### Hello, I'm Matheus Candido
-🎓 - I'm a Bachelor Software Engigeer by UTFPR-CP and Cybersecurity Analyst at TCS
+🎓 - I'm a Bachelor Software Engineer by UTFPR-CP and Cybersecurity Analyst at TCS
 
-🚀 - My favorite topics about developing are Back-end, AI, Games and Cyber Security. Aside these topics I'm trying to improve my knowledge about development process (agile and others), front-end, documentation and outher topics
+🚀 - My favorite topics about developing are Back-end, AI, Games and Cyber Security. Aside from these topics, I'm trying to improve my knowledge about development process (agile and others), front-end, documentation and other topics
 
 ##
 
-### About my activity on GitHub and used Tecnologies
+### About my activity on GitHub and used Technologies
+
 <div>
   <a href="https://github.com/MatheusCandidoo">
-    <!-- Substitua o link antigo por este (GitHub Readme Stats oficial) -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscandidoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCandidoo&layout=compact&langs_count=16&theme=tokyonight"/>
+    <!-- Trocado para uma instância espelho que costuma funcionar melhor -->
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheuscandidoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusCandidoo&layout=compact&langs_count=16&theme=tokyonight"/>
   </a>
 </div>
   
@@ -33,8 +34,7 @@
   <a href="https://instagram.com/candao.ma"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Matheus-Instagram"></a>
   <a href="https://www.linkedin.com/in/candidoo/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Matheus-Linkedin"></a>
   <a href="https://twitter.com/candao_ma"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Matheus-Twitter"></a>
-</div>  
-  
+</div>
   
 <!--
 **MatheusCandidoo/MatheusCandidoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
