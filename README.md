@@ -6,12 +6,12 @@
 ##
 
 ### About my activity on GitHub and used Tecnologies
-
 <div>
   <a href="https://github.com/MatheusCandidoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscandidoo&show_icons=true&theme=tokyonight&include_all_commits=true%count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCandidoo&layout=compact&lang_count=16&theme=tokyonight"/>
-    </a>
+    <!-- Substitua o link antigo por este (GitHub Readme Stats oficial) -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscandidoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCandidoo&layout=compact&langs_count=16&theme=tokyonight"/>
+  </a>
 </div>
   
 <div style="display: inline_block"> <br>
