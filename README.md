@@ -1,5 +1,5 @@
 ### Hello, I'm Matheus Candido
-🎓 - I'm gratuating in Software Engineering at UTFPR-CP and an intern at TCS Brazil.
+🎓 - I'm a Bachelor Software Engigeer by UTFPR-CP and Cybersecurity Analyst at TCS
 
 🚀 - My favorite topics about developing are Back-end, AI, Games and Cyber Security. Aside these topics I'm trying to improve my knowledge about development process (agile and others), front-end, documentation and outher topics
 
